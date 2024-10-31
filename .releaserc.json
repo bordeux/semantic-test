@@ -20,11 +20,11 @@
           },
           {
             "path": "dist/bin/worker_windows_darwin_arm64",
-            "label": "Worker Darwin ARM64 (M chips) binary"
+            "label": "Worker Darwin ARM64 (M chip) binary"
           },
           {
             "path": "dist/bin/worker_windows_darwin_x64",
-            "label": "Worker Darwin x64 (Intel chips) binary"
+            "label": "Worker Darwin x64 (Intel chip) binary"
           },
           {
             "path": "dist/bin/worker_windows_x64.exe",
